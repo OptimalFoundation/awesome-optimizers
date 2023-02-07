@@ -2,7 +2,7 @@
 
 This repository is concieved to provide aid in literature reiviews to Optimization researchers by offering an up-to-date list of literature and corresponding summaries.
 
-If this repository has been useful to you in your research, please cite it using the *_cite this repository_* option available in Github. Thanks! :sparkling_heart:
+If this repository has been useful to you in your research, please cite it using the ___cite this repository___ option available in Github. Thanks! :sparkling_heart:
 
 ### Table of Contents
 
