@@ -32,7 +32,6 @@ If this repository has been useful to you in your research, please cite it using
 ## Optimizer-agnostic improvements
 
 - [Gradient Centralization: A New Optimization Technique for Deep Neural Networks](https://arxiv.org/abs/2004.01461) [:outbox_tray:]() [:computer:]()
-
     Hongwei Yong, Jianqiang Huang, Xiansheng Hua, Lei Zhang; 2020
 
 
