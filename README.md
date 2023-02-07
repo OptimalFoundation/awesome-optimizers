@@ -36,5 +36,4 @@ If this repository has been useful to you in your research, please cite it using
 
 
 - [Gradient Descent: The Ultimate Optimizer](https://arxiv.org/abs/1909.13371) [:outbox_tray:]() [:computer:]()
-
     Kartik Chandra, Audrey Xie, Jonathan Ragan-Kelley, Erik Meijer; 2019
