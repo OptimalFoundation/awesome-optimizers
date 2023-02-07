@@ -2,7 +2,7 @@
 
 This repository is concieved to provide aid in literature reiviews to Optimization researchers by offering an up-to-date list of literature and corresponding summaries.
 
-If this repository has been useful to you in your research, please cite it using the ___cite this repository___ option available in Github. Thanks! :sparkling_heart:
+If this repository has been useful to you in your research, please cite it using the ___cite this repository___ option available in Github. This repository would not have been possible without these open-source [contributors](). Thanks! :sparkling_heart:
 
 ### Table of Contents
 
@@ -52,6 +52,7 @@ If this repository has been useful to you in your research, please cite it using
 
 - [Gradient Descent: The Ultimate Optimizer](https://arxiv.org/abs/1909.13371) [:outbox_tray:]() [:computer:]()
     Kartik Chandra, Audrey Xie, Jonathan Ragan-Kelley, Erik Meijer; 2019
+
 
 ## Optimizers' Analysis and Meta-research
 
