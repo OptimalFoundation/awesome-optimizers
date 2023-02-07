@@ -11,7 +11,7 @@ If this repository has been useful to you in your research, please cite it using
 - [First-order Optimizers](#first-order-optimizers)
     - [Adaptive Optimizers](#adaptive-optimizers)
 - [Second-order Optimizers](#second-order-optimizers)
--
+- [Optimizer Agnostic Improvements](#optimizer-agnostic-improvements)
 
 ### Legend
 
