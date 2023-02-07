@@ -7,6 +7,7 @@ If this repository has been useful to you in your research, please cite it using
 ### Table of Contents
 
 - [Legend](#legend)
+- [Survey Papers]()
 - [First-order Optimizers](#first-order-optimizers)
     - [Adaptive Optimizers](#adaptive-optimizers)
 - [Second-order Optimizers](#second-order-optimizers)
@@ -20,12 +21,23 @@ If this repository has been useful to you in your research, please cite it using
 | :computer:    | Code    |
 
 
+## Survey Papers
+
+- [An overview of gradient descent optimization algorithms](https://arxiv.org/abs/1609.04747) 
+    Sebastian Ruder; 2016
+
+
 ## First-order Optimizers
 
 - []
 
-
 ### Adaptive Optimizers
+
+- [RMSProp](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf) [:outbox_tray:]() [:computer:]()
+    Geoffrey Hinton; 2013
+
+- [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980) [:outbox_tray:]() [:computer:]()
+    Diederik P. Kingma, Jimmy Ba; 2014
 
 ## Second-order Optimizers
 
