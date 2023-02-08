@@ -12,10 +12,10 @@ If this repository has been useful to you in your research, please cite it using
     - [Adaptive Optimizers](#adaptive-optimizers)
     - [Adam family of Optimizers](#adam-family-of-optimizers)
 - [Second-order Optimizers](#second-order-optimizers)
-- [Other Optimization-related Research]
-    - [General Improvements]
-    - [Optimizer Analysis]
-    - [Hyperparameter tuning]
+- [Other Optimization-related Research](#other-optimisation-related-research)
+    - [General Improvements](#general-improvements)
+    - [Optimizer Analysis](#optimizer-analysis-and-meta-research)
+    - [Hyperparameter tuning](#hyperparameter-tuning)
 ### Legend
 
 | Symbol        | Meaning |
