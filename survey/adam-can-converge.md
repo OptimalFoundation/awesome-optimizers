@@ -7,7 +7,7 @@ ________________________________________________________________________________
 
 *[Reddi et al. (2018)](on-the-convergence-of-adam.md)* states that :  
 
->*For any $β_1, β_2$ s.t. $0 ≤ β_1 < √β_2 < 1$, there exists a problem such that Adam diverges.*
+> For any $β_1, β_2$ s.t. $0 ≤ β_1 < √β_2 < 1$, there exists a problem such that Adam diverges.
 
 1. Even though many varients of Adam came out after this, still Adam remains exceptionally popular. 
 2. Without any modification on its update rules, Adam works well in practice.
