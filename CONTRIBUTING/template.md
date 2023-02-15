@@ -29,5 +29,3 @@ Diederik P. Kingma, Jimmy Ba; 2014
 * Empirical results demonstrate that Adam works well in practice and compares favorably to other stochastic optimization methods
 
 ![Adam Algorithm](assets/adam.png)
-
-
