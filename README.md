@@ -10,9 +10,12 @@ If this repository has been useful to you in your research, please cite it using
 - [Survey Papers]()
 - [First-order Optimizers](#first-order-optimizers)
     - [Adaptive Optimizers](#adaptive-optimizers)
+    - [Adam family of Optimizers](#adam-family-of-optimizers)
 - [Second-order Optimizers](#second-order-optimizers)
-- [Optimizer Agnostic Improvements](#optimizer-agnostic-improvements)
-
+- [Other Optimization-related Research](#other-optimisation-related-research)
+    - [General Improvements](#general-improvements)
+    - [Optimizer Analysis](#optimizer-analysis-and-meta-research)
+    - [Hyperparameter tuning](#hyperparameter-tuning)
 ### Legend
 
 | Symbol        | Meaning |
@@ -31,6 +34,9 @@ If this repository has been useful to you in your research, please cite it using
 
 ## First-order Optimizers
 
+- [Nesterov Accelerated Gradient momentum](https://jlmelville.github.io/mize/nesterov.html) [:outbox_tray:]() [:computer:]()
+    Yuri Nesterov; _Unknown_
+
 - [KOALA: A Kalman Optimization Algorithm with Loss Adaptivity](https://arxiv.org/abs/2107.03331) [:outbox_tray:]() [:computer:]()
     Aram Davtyan, Sepehr Sameni, Llukman Cerkezi, Givi Meishvilli, Adam Bielski, Paolo Favaro; 2021
 
@@ -39,22 +45,31 @@ If this repository has been useful to you in your research, please cite it using
 - [RMSProp](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf) [:outbox_tray:]() [:computer:]()
     Geoffrey Hinton; 2013
 
+### Adam Family of Optimizers
+
 - [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980) [:outbox_tray:]() [:computer:]()
     Diederik P. Kingma, Jimmy Ba; 2014
 
 ## Second-order Optimizers
 
-## Optimizer-agnostic improvements
+- [Shampoo: Preconditioned Stochastic Tensor Optimization](https://arxiv.org/abs/1802.09568) [:outbox_tray:]() [:computer:]()
+    Vineet Gupta, Tomer Koren, Yoram Singer
 
+
+## Other Optimisation-Related Research
+
+### General Improvements
 - [Gradient Centralization: A New Optimization Technique for Deep Neural Networks](https://arxiv.org/abs/2004.01461) [:outbox_tray:]() [:computer:]()
     Hongwei Yong, Jianqiang Huang, Xiansheng Hua, Lei Zhang; 2020
 
 
-- [Gradient Descent: The Ultimate Optimizer](https://arxiv.org/abs/1909.13371) [:outbox_tray:]() [:computer:]()
-    Kartik Chandra, Audrey Xie, Jonathan Ragan-Kelley, Erik Meijer; 2019
-
-
-## Optimizers' Analysis and Meta-research
-
+### Optimizer Analysis and Meta-research
 - [On Empirical Comparisons of Optimizers for Deep Learning](https://arxiv.org/abs/1910.05446) [:outbox_tray:]()
     Dami Choi, Christopher J. Shallue, Zachary Nado, Jaehoon Lee, Chris J. Maddison, George E. Dahl; 2019
+
+- [Adam Can Converge Without Any Modification on Update Rules](https://arxiv.org/abs/2208.09632) [:outbox_tray:](survey/adam-can-converge.md)
+    Yushun Zhang, Congliang Chen, Naichen Shi, Ruoyu Sun, Zhi-Quan Luo; 2022
+
+### Hyperparameter Tuning
+- [Gradient Descent: The Ultimate Optimizer](https://arxiv.org/abs/1909.13371) [:outbox_tray:]() [:computer:]()
+    Kartik Chandra, Audrey Xie, Jonathan Ragan-Kelley, Erik Meijer; 2019

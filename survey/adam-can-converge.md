@@ -17,7 +17,7 @@ This paper suggests that:
 1. For $β_2$ is large enough and $β_1 < √β_2,$ Adam converges to the neighborhood of critical points.
 2. For any fixed $n$, there exists a function such that, Adam diverges to infinity when $(β_1, β_2)$ is picked in the red region.  
 
-![adam-can-converge](adam-can-converg.png)  
+![adam-can-converge](assets/adam-can-converg.png)  
 
 
 3. There is a phase transition from divergence to convergence when changing $β_2$.
