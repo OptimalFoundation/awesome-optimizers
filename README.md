@@ -67,6 +67,8 @@ If this repository has been useful to you in your research, please cite it using
 - [On Empirical Comparisons of Optimizers for Deep Learning](https://arxiv.org/abs/1910.05446) [:outbox_tray:]()
     Dami Choi, Christopher J. Shallue, Zachary Nado, Jaehoon Lee, Chris J. Maddison, George E. Dahl; 2019
 
+- [Adam Can Converge Without Any Modification on Update Rules](https://arxiv.org/abs/2208.09632) [:outbox_tray:](survey/adam-can-converge.md)
+    Yushun Zhang, Congliang Chen, Naichen Shi, Ruoyu Sun, Zhi-Quan Luo; 2022
 
 ### Hyperparameter Tuning
 - [Gradient Descent: The Ultimate Optimizer](https://arxiv.org/abs/1909.13371) [:outbox_tray:]() [:computer:]()
