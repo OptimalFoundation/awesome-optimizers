@@ -29,14 +29,14 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 ## Code of Conduct
 
 This project and everyone participating in it is governed by the
-[Awesome Optimizers Code of Conduct](https://github.com/Dawn-Of-Eve/awesome-optimizersblob/master/CODE_OF_CONDUCT.md).
+[Awesome Optimizers Code of Conduct](CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code. Please report unacceptable behavior
 to <bhavnicksm@gmail.com>.
 
 
 ## I Have a Question
 
-> If you want to ask a question, we assume that you have read the available [Documentation]().
+> If you want to ask a question, we assume that you have read the available [Documentation](../README.md).
 
 Before you ask a question, it is best to search for existing [Issues](https://github.com/Dawn-Of-Eve/awesome-optimizers/issues) that might help you. In case you have found a suitable issue and still need clarification, you can write your question in this issue. It is also advisable to search the internet for answers first.
 
@@ -131,28 +131,30 @@ Enhancement suggestions are tracked as [GitHub issues](https://github.com/Dawn-O
 - You may want to **include screenshots and animated GIFs** which help you demonstrate the steps or point out the part which the suggestion is related to. You can use [this tool](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/GNOME/byzanz) on Linux. <!-- this should only be included if the project has a GUI -->
 - **Explain why this enhancement would be useful** to most Awesome Optimizers users. You may also want to point out the other projects that solved it better and which could serve as inspiration.
 
+
+
+
+
 <!-- You might want to create an issue template for enhancement suggestions that can be used as a guide and that defines the structure of the information to be included. If you do so, reference it here in the description. -->
 
-### Your First Code Contribution
-<!-- TODO
-include Setup of env, IDE and typical getting started instructions?
+### Your First Paper Notes Contribution
 
--->
+If you have read a paper belonging to the same general topic (Optimizers and optimization techniques) as this repository and feel like you can add a paper to the survey, you must follow the following steps to add a paper's notes:
 
-### Improving The Documentation
-<!-- TODO
-Updating, improving and correcting the documentation
-
--->
+1. Fork the repository
+2. Add the paper title with link, paper authors, paper year and summary/code tags in the main README.md in your own fork
+3. In the [survey](../survey/) folder, add a file named ***your-paper-title.md*** with the same file format as that of the [Template](./template.md) given in this folder of your fork.
+4. Lastly, link your page from the [survey](../survey/) folder to the main [README](../README.md) with the :out_tray: emoji and put in a PR!
 
 ## Styleguides
 ### Commit Messages
-<!-- TODO
 
--->
+Provide full description of the commit you are doing, with task description and explainaion. 
+
+If you are adding a paper, write a commit message saying -> "Add paper: [YOUR PAPER TITLE HERE]"
 
 ## Join The Project Team
-<!-- TODO -->
+To join the Project team and become a maintainer for the repository, just contact <bhavnicksm@gmail.com>
 
 <!-- omit in toc -->
 ## Attribution
