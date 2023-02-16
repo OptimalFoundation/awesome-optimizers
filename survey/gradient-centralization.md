@@ -25,11 +25,11 @@ Hongwei Yong, Jianqiang Huang; 2020
 
 * Gradient centralization (GC) operates directly on gradients by centralizing the gradient vectors to have zero mean.  
 
-![Gradient Centralization](assets/gradient-centralisation-1.png)  
+![Gradient-Centralization](assets/gradient-centralisation-1.png)  
 
 * Mean value of gradients from each column is subtracted from the column, so that the mean of gradients in a column will be zero. 
 
-![GC eqn1](assets/gradient-centralisation-2.webp)
+![GC eqn1](./assets/gradient-centralisation-2.webp)
 
 * Alternatively, 
 
@@ -43,7 +43,8 @@ Hongwei Yong, Jianqiang Huang; 2020
     
 
 
->**Theorem:**   Suppose that SGD (or SGDM) with GC is used to update the weight vector $w$, for any input feature vectors $x$ and >$x + γ1$, we have,  
+**Theorem:**   
+>Suppose that SGD (or SGDM) with GC is used to update the weight vector $w$, for any input feature vectors $x$ and $x + γ1$, we have,  
 >$(w^t)^T x − (w^t)^T (x + γ1) = γ1^Tw^0$
 >
 >where $w^0$ is the initial weight vector and $γ$ is a scalar.<br>
