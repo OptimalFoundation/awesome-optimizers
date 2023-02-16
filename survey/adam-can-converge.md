@@ -1,9 +1,25 @@
-## Adam Can Converge Without Any Modification on Update Rules.  
+# [Adam Can Converge Without Any Modification on Update Rules.](https://arxiv.org/pdf/2208.09632.pdf)
+Zhang, Zhi-Quan; 2022
 
-*Zhang, Y., et al. (2022)*   
-https://arxiv.org/abs/2208.09632  
-__________________________________________________________________________________________________________________________________
-<br>
+```bibtex
+@misc{https://doi.org/10.48550/arxiv.2208.09632,
+  doi = {10.48550/ARXIV.2208.09632},
+  url = {https://arxiv.org/abs/2208.09632},
+  author = {Zhang, 
+            Yushun and Chen, 
+            Congliang and Shi, 
+            Naichen and Sun, 
+            Ruoyu and Luo, 
+            Zhi-Quan},
+  title = {Adam Can Converge Without Any Modification On Update Rules},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
+
+```
+
+## Notes  
 
 *[Reddi et al. (2018)](on-the-convergence-of-adam.md)* states that :  
 
@@ -25,17 +41,3 @@ This paper suggests that:
 5. “Divergence region” of $(β_1, β_2) $ expands as $n$ increases and converges to the whole region $[0,1)^2$ as $n$ goes to infinity.<br>
 <br>
 
-  
-    
-
-__________________________________________________________________________________________________________________________________  
-
-
-
-```bibtex
-@article{zhang2022adam,
-  title={Adam can converge without any modification on update rules},
-  author={Zhang, Yushun and Chen, Congliang and Shi, Naichen and Sun, Ruoyu and Luo, Zhi-Quan},
-  journal={arXiv preprint arXiv:2208.09632},
-  year={2022}
-}
