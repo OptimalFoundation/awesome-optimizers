@@ -1,4 +1,4 @@
-# :sparkles: :Awesome Optimizers
+# :sparkles: Awesome Optimizers
 
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Dawn-Of-Eve/awesome-optimizers?display_timestamp=committer)
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Dawn-Of-Eve/awesome-optimizers?include_prereleases)
