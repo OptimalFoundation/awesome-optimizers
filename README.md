@@ -64,7 +64,7 @@ If this repository has been useful to you in your research, please cite it using
 ## Other Optimisation-Related Research
 
 ### General Improvements
-- [Gradient Centralization: A New Optimization Technique for Deep Neural Networks](https://arxiv.org/abs/2004.01461) [:outbox_tray:]() [:computer:]()
+- [Gradient Centralization: A New Optimization Technique for Deep Neural Networks](https://arxiv.org/abs/2004.01461) [:outbox_tray:](survey/gradient-centralization.md) [:computer:]()
     Hongwei Yong, Jianqiang Huang, Xiansheng Hua, Lei Zhang; 2020
 
 
