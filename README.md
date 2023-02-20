@@ -1,5 +1,6 @@
 # :sparkles: Awesome Optimizers
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Dawn-Of-Eve/awesome-optimizers?display_timestamp=committer)
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Dawn-Of-Eve/awesome-optimizers?include_prereleases)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Dawn-Of-Eve/awesome-optimizers?style=social)
