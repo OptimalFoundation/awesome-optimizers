@@ -4,6 +4,7 @@
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/Dawn-Of-Eve/awesome-optimizers?include_prereleases)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Dawn-Of-Eve/awesome-optimizers?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Dawn-Of-Eve/awesome-optimizers?style=social)
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This repository is concieved to provide aid in literature reiviews to Optimization researchers by offering an up-to-date list of literature and corresponding summaries.
 
