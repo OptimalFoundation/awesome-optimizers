@@ -30,10 +30,11 @@ If this repository has been useful to you in your research, please cite it using
 
 ### Legend
 
-| Symbol        | Meaning |
-|---------------|---------|
-| :outbox_tray: | Summary |
-| :computer:    | Code    |
+| Symbol        | Meaning | Count |
+|:--------------|:--------|:------|
+|  None         | Paper   | 11    |
+| :outbox_tray: | Summary | 2     |
+| :computer:    | Code    | 0     |
 
 
 # Survey Papers
