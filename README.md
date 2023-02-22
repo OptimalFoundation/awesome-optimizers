@@ -1,4 +1,4 @@
-# :sparkles: Awesome Optimizers
+# :sparkles: Awesome Optimizers :chart_with_downwards_trend:
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/Dawn-Of-Eve/awesome-optimizers?display_timestamp=committer)
