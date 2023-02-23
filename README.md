@@ -19,6 +19,7 @@ If this repository has been useful to you in your research, please cite it using
     - [Legend](#legend)
 - [Survey Papers](#survey-papers)
 - [First-order Optimizers](#first-order-optimizers)
+  - [Momentum based Optimizers](#momentum-based-optimizers)
   - [Adaptive Optimizers](#adaptive-optimizers)
   - [Adam Family of Optimizers](#adam-family-of-optimizers)
 - [Second-order Optimizers](#second-order-optimizers)
@@ -32,8 +33,8 @@ If this repository has been useful to you in your research, please cite it using
 
 | Symbol        | Meaning | Count |
 |:--------------|:--------|:------|
-|  None         | Paper   | 11    |
-| :outbox_tray: | Summary | 2     |
+|  None         | Paper   | 17    |
+| :outbox_tray: | Summary | 3     |
 | :computer:    | Code    | 0     |
 
 
@@ -53,36 +54,55 @@ If this repository has been useful to you in your research, please cite it using
 4. [KOALA: A Kalman Optimization Algorithm with Loss Adaptivity](https://arxiv.org/abs/2107.03331) [:outbox_tray:]() [:computer:]()
     Aram Davtyan, Sepehr Sameni, Llukman Cerkezi, Givi Meishvilli, Adam Bielski, Paolo Favaro; 2021
 
+## Momentum based Optimizers
+
+5. [On the Momentum Term in Gradient Descent Learning Algorithms](https://reader.elsevier.com/reader/sd/pii/S0893608098001166?token=3147494EED9FE670AF728F3408B795675246C9934481200C4E86611D7FE34FAEDDFF1E9BD5C6AE9455320BF21F3FEA3B&originRegion=eu-west-1&originCreation=20230223114928) [:outbox_tray:]() [:computer:]()
+    Ning Qian; 1999
+
+6. [Symbolic Discovery of Optimization Algorithms](https://arxiv.org/abs/2302.06675) [:outbox_tray:]() [:computer:]() Xiangning Chen,   Chen Liang, Da Huang; 2023
+   
+
 ## Adaptive Optimizers
 
-5. [RMSProp](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf) [:outbox_tray:]() [:computer:]()
+7. [Adaptive Subgradient Methods for Online Learning and Stochastic Optimization](https://dl.acm.org/doi/10.5555/1953048.2021068) [:outbox_tray:]() [:computer:]() John Duchi, Elad Hazan, Yoram Singer; 2011
+
+8. [ADADELTA: An Adaptive Learning Rate Method](https://arxiv.org/abs/1212.5701) [:outbox_tray:]() [:computer:]() 
+    Matthew D. Zeiler; 2012
+
+6. [RMSProp](http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf) [:outbox_tray:]() [:computer:]()
     Geoffrey Hinton; 2013
 
 ## Adam Family of Optimizers
 
-6. [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980) [:outbox_tray:]() [:computer:]()
+10. [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980) [:outbox_tray:]() [:computer:]()
     Diederik P. Kingma, Jimmy Ba; 2014
+
+8. [AdamP: Slowing Down the Slowdown for Momentum Optimizers on Scale-invariant Weights](https://arxiv.org/abs/2006.08217) [:outbox_tray:]() [:computer:]()
+    Byeongho Heo, Sanghyuk Chun, Seong Joon Oh, Dongyoon Han; 2020
+
+9. [On the Variance of the Adaptive Learning Rate and Beyond](https://arxiv.org/abs/1908.03265) [:outbox_tray:]() [:computer:]()
+    Liyuan Liu, Haoming Jiang, Pengcheng He; 2021
 
 # Second-order Optimizers
 
-7. [Shampoo: Preconditioned Stochastic Tensor Optimization](https://arxiv.org/abs/1802.09568) [:outbox_tray:]() [:computer:]()
-    Vineet Gupta, Tomer Koren, Yoram Singer
+13. [Shampoo: Preconditioned Stochastic Tensor Optimization](https://arxiv.org/abs/1802.09568) [:outbox_tray:]() [:computer:]()
+    Vineet Gupta, Tomer Koren, Yoram Singer; 2018
 
 
 # Other Optimisation-Related Research
 
 ## General Improvements
-8. [Gradient Centralization: A New Optimization Technique for Deep Neural Networks](https://arxiv.org/abs/2004.01461) [:outbox_tray:](survey/gradient-centralization.md) [:computer:]()
+14. [Gradient Centralization: A New Optimization Technique for Deep Neural Networks](https://arxiv.org/abs/2004.01461) [:outbox_tray:](survey/gradient-centralization.md) [:computer:]()
     Hongwei Yong, Jianqiang Huang, Xiansheng Hua, Lei Zhang; 2020
 
 
 ## Optimizer Analysis and Meta-research
-9. [On Empirical Comparisons of Optimizers for Deep Learning](https://arxiv.org/abs/1910.05446) [:outbox_tray:]()
+15. [On Empirical Comparisons of Optimizers for Deep Learning](https://arxiv.org/abs/1910.05446) [:outbox_tray:]()
     Dami Choi, Christopher J. Shallue, Zachary Nado, Jaehoon Lee, Chris J. Maddison, George E. Dahl; 2019
 
-10. [Adam Can Converge Without Any Modification on Update Rules](https://arxiv.org/abs/2208.09632) [:outbox_tray:](survey/adam-can-converge.md)
+11. [Adam Can Converge Without Any Modification on Update Rules](https://arxiv.org/abs/2208.09632) [:outbox_tray:](survey/adam-can-converge.md)
     Yushun Zhang, Congliang Chen, Naichen Shi, Ruoyu Sun, Zhi-Quan Luo; 2022
 
 ## Hyperparameter Tuning
-11. [Gradient Descent: The Ultimate Optimizer](https://arxiv.org/abs/1909.13371) [:outbox_tray:]() [:computer:]()
+17. [Gradient Descent: The Ultimate Optimizer](https://arxiv.org/abs/1909.13371) [:outbox_tray:]() [:computer:]()
     Kartik Chandra, Audrey Xie, Jonathan Ragan-Kelley, Erik Meijer; 2019
