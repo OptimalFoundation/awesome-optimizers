@@ -33,7 +33,7 @@ If this repository has been useful to you in your research, please cite it using
 
 | Symbol        | Meaning | Count |
 |:--------------|:--------|:------|
-|  None         | Paper   | 17    |
+| :page_facing_up:         | Paper   | 20    |
 | :outbox_tray: | Summary | 3     |
 | :computer:    | Code    | 0     |
 
