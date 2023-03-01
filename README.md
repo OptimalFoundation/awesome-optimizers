@@ -80,10 +80,10 @@ If this repository has been useful to you in your research, please cite it using
 12. [AdamP: Slowing Down the Slowdown for Momentum Optimizers on Scale-invariant Weights](https://arxiv.org/abs/2006.08217) [:outbox_tray:]() [:computer:]()
     Byeongho Heo, Sanghyuk Chun, Seong Joon Oh, Dongyoon Han; 2020
 
-13. [On the Variance of the Adaptive Learning Rate and Beyond](https://arxiv.org/abs/1908.03265) [:outbox_tray:]() [:computer:]()
-    Liyuan Liu, Haoming Jiang, Pengcheng He; 2021
+13. [AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients](https://arxiv.org/abs/2010.07468) Juntang Zhuang, Tommy Tang, Yifan Ding, Sekhar Tatikonda, Nicha Dvornek, Xenophon Papademetris, James S. Duncan ; 2020
 
-14. [AdaBelief Optimizer: Adapting Stepsizes by the Belief in Observed Gradients](https://arxiv.org/abs/2010.07468) Juntang Zhuang, Tommy Tang, Yifan Ding, Sekhar Tatikonda, Nicha Dvornek, Xenophon Papademetris, James S. Duncan ; 2020
+14. [On the Variance of the Adaptive Learning Rate and Beyond](https://arxiv.org/abs/1908.03265) [:outbox_tray:]() [:computer:]()
+    Liyuan Liu, Haoming Jiang, Pengcheng He; 2021
 
 15. [Momentum Centering and Asynchronous Update for Adaptive Gradient Methods](https://arxiv.org/abs/2110.05454) Juntang Zhuang, Yifan Ding, Tommy Tang, Nicha Dvornek, Sekhar Tatikonda, James S. Duncan ; 2021 
 
