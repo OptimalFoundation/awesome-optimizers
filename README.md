@@ -23,6 +23,7 @@ If this repository has been useful to you in your research, please cite it using
   - [Adaptive Optimizers](#adaptive-optimizers)
   - [Adam Family of Optimizers](#adam-family-of-optimizers)
 - [Second-order Optimizers](#second-order-optimizers)
+- [Learned Optimizers](#learned-optimizers)
 - [Other Optimisation-Related Research](#other-optimisation-related-research)
   - [General Improvements](#general-improvements)
   - [Optimizer Analysis and Meta-research](#optimizer-analysis-and-meta-research)
@@ -93,20 +94,25 @@ If this repository has been useful to you in your research, please cite it using
     Vineet Gupta, Tomer Koren, Yoram Singer; 2018
 
 
+# Learned Optimizers
+
+17. [VeLO: Training Versatile Learned Optimizers by Scaling Up](https://arxiv.org/pdf/2211.09760.pdf) [:outbox_tray:]() [:computer:]()
+    Luke Metz, James Harrison, C. Daniel Freeman, Amil Merchant, Lucas Beyer, James Bradbury, Naman Agrawal, Ben Poole, Igor Mordatch, Adam Roberts, Jascha Sohl-Dickstein; 2022
+
 # Other Optimisation-Related Research
 
 ## General Improvements
-17. [Gradient Centralization: A New Optimization Technique for Deep Neural Networks](https://arxiv.org/abs/2004.01461) [:outbox_tray:](survey/gradient-centralization.md) [:computer:]()
+18. [Gradient Centralization: A New Optimization Technique for Deep Neural Networks](https://arxiv.org/abs/2004.01461) [:outbox_tray:](survey/gradient-centralization.md) [:computer:]()
     Hongwei Yong, Jianqiang Huang, Xiansheng Hua, Lei Zhang; 2020
 
 
 ## Optimizer Analysis and Meta-research
-18. [On Empirical Comparisons of Optimizers for Deep Learning](https://arxiv.org/abs/1910.05446) [:outbox_tray:]()
+19. [On Empirical Comparisons of Optimizers for Deep Learning](https://arxiv.org/abs/1910.05446) [:outbox_tray:]()
     Dami Choi, Christopher J. Shallue, Zachary Nado, Jaehoon Lee, Chris J. Maddison, George E. Dahl; 2019
 
 19. [Adam Can Converge Without Any Modification on Update Rules](https://arxiv.org/abs/2208.09632) [:outbox_tray:](survey/adam-can-converge.md)
     Yushun Zhang, Congliang Chen, Naichen Shi, Ruoyu Sun, Zhi-Quan Luo; 2022
 
 ## Hyperparameter Tuning
-20. [Gradient Descent: The Ultimate Optimizer](https://arxiv.org/abs/1909.13371) [:outbox_tray:]() [:computer:]()
+21. [Gradient Descent: The Ultimate Optimizer](https://arxiv.org/abs/1909.13371) [:outbox_tray:]() [:computer:]()
     Kartik Chandra, Audrey Xie, Jonathan Ragan-Kelley, Erik Meijer; 2019
