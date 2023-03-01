@@ -58,10 +58,10 @@ If this repository has been useful to you in your research, please cite it using
 
 5. [On the Momentum Term in Gradient Descent Learning Algorithms](https://reader.elsevier.com/reader/sd/pii/S0893608098001166?token=3147494EED9FE670AF728F3408B795675246C9934481200C4E86611D7FE34FAEDDFF1E9BD5C6AE9455320BF21F3FEA3B&originRegion=eu-west-1&originCreation=20230223114928) [:outbox_tray:]() [:computer:]()
     Ning Qian; 1999
+6. [Demon: Improved Neural Network Training with Momentum Decay](https://arxiv.org/abs/1910.04952) John Chen, Cameron Wolfe, Zhao Li, Anastasios Kyrillidis ; 2021
 
-6. [Symbolic Discovery of Optimization Algorithms](https://arxiv.org/abs/2302.06675) [:outbox_tray:]() [:computer:]() Xiangning Chen,   Chen Liang, Da Huang; 2023
-   
-7. [Demon: Improved Neural Network Training with Momentum Decay](https://arxiv.org/abs/1910.04952) John Chen, Cameron Wolfe, Zhao Li, Anastasios Kyrillidis ; 2021
+7. [Symbolic Discovery of Optimization Algorithms](https://arxiv.org/abs/2302.06675) [:outbox_tray:]() [:computer:]() Xiangning Chen, Chen Liang, Da Huang; 2023
+
 ## Adaptive Optimizers
 
 8. [Adaptive Subgradient Methods for Online Learning and Stochastic Optimization](https://dl.acm.org/doi/10.5555/1953048.2021068) [:outbox_tray:]() [:computer:]() John Duchi, Elad Hazan, Yoram Singer; 2011
