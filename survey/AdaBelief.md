@@ -18,10 +18,10 @@ Juntang Zhuang, Tommy Tang, Yifan Ding, Sekhar Tatikonda, Nicha Dvornek, Xenopho
   to its exponential moving average (EMA), then it can be trusted and a large step can be take. Conversely, if it differs greatly from the EMA,
   then a small step is taken. 
   
-  ![AdaBelief algorithm](/assets/AdaBelief 1.png)
-  ![AdaBelief action in different conditions](/assets/AdaBelief 2.png)
+  ![AdaBelief algorithm](/assets/AdaBelief1.png)
+  ![AdaBelief action in different conditions](/assets/AdaBelief2.png)
 * AdaBelief also takes into account the sign of the gradient at a step. If the gradient is the same sign as its EMA, then the denominator is small.     On the other hand, if they have the opposite sign, the denominator is large.
 * In the tests conducted, it was found that AdaBelief consistently had performance comparable to or better than SGD and Adam.
 * It performs well in cases where the gradient is large but where the curvature is small.
 
-  ![AdaBelief 3](assets/AdaBelief 3.png)
+![AdaBelief intuition](/assets/AdaBelief3.png)
