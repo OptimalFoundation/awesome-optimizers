@@ -78,6 +78,8 @@ If this repository has been useful to you in your research, please cite it using
 11. [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980) [:outbox_tray:]() [:computer:]()
     Diederik P. Kingma, Jimmy Ba; 2014
 
+12. [Decoupled Weight Decay Regularization](https://arxiv.org/abs/1711.05101)(AdamW) [:outbox_tray:](survey/adamw.md) [:computer:]()
+
 12. [AdamP: Slowing Down the Slowdown for Momentum Optimizers on Scale-invariant Weights](https://arxiv.org/abs/2006.08217) [:outbox_tray:]() [:computer:]()
     Byeongho Heo, Sanghyuk Chun, Seong Joon Oh, Dongyoon Han; 2020
 
@@ -90,13 +92,13 @@ If this repository has been useful to you in your research, please cite it using
 
 # Second-order Optimizers
 
-16. [Shampoo: Preconditioned Stochastic Tensor Optimization](https://arxiv.org/abs/1802.09568) [:outbox_tray:]() [:computer:]()
+17. [Shampoo: Preconditioned Stochastic Tensor Optimization](https://arxiv.org/abs/1802.09568) [:outbox_tray:]() [:computer:]()
     Vineet Gupta, Tomer Koren, Yoram Singer; 2018
 
 
 # Learned Optimizers
 
-17. [Understanding and correcting pathologies in the training of learned optimizers](https://arxiv.org/pdf/1810.10180) [:outbox_tray:]() [:computer:]()
+18. [Understanding and correcting pathologies in the training of learned optimizers](https://arxiv.org/pdf/1810.10180) [:outbox_tray:]() [:computer:]()
     Luke Metz, Niru Maheswaranathan, Jeremy Nixon, C. Daniel Freeman, Jascha Sohl-Dickstein; 2018
 
 18. [Tasks, stability, architecture, and compute: Training more effective learned optimizers, and using them to train themselves](https://arxiv.org/pdf/2009.11243) [:outbox_tray:]() [:computer:]()
@@ -112,17 +114,17 @@ If this repository has been useful to you in your research, please cite it using
 # Other Optimisation-Related Research
 
 ## General Improvements
-21. [Gradient Centralization: A New Optimization Technique for Deep Neural Networks](https://arxiv.org/abs/2004.01461) [:outbox_tray:](survey/gradient-centralization.md) [:computer:]()
+22. [Gradient Centralization: A New Optimization Technique for Deep Neural Networks](https://arxiv.org/abs/2004.01461) [:outbox_tray:](survey/gradient-centralization.md) [:computer:]()
     Hongwei Yong, Jianqiang Huang, Xiansheng Hua, Lei Zhang; 2020
 
 
 ## Optimizer Analysis and Meta-research
-22. [On Empirical Comparisons of Optimizers for Deep Learning](https://arxiv.org/abs/1910.05446) [:outbox_tray:]()
+23. [On Empirical Comparisons of Optimizers for Deep Learning](https://arxiv.org/abs/1910.05446) [:outbox_tray:]()
     Dami Choi, Christopher J. Shallue, Zachary Nado, Jaehoon Lee, Chris J. Maddison, George E. Dahl; 2019
 
 22. [Adam Can Converge Without Any Modification on Update Rules](https://arxiv.org/abs/2208.09632) [:outbox_tray:](survey/adam-can-converge.md)
     Yushun Zhang, Congliang Chen, Naichen Shi, Ruoyu Sun, Zhi-Quan Luo; 2022
 
 ## Hyperparameter Tuning
-24. [Gradient Descent: The Ultimate Optimizer](https://arxiv.org/abs/1909.13371) [:outbox_tray:]() [:computer:]()
+25. [Gradient Descent: The Ultimate Optimizer](https://arxiv.org/abs/1909.13371) [:outbox_tray:]() [:computer:]()
     Kartik Chandra, Audrey Xie, Jonathan Ragan-Kelley, Erik Meijer; 2019
