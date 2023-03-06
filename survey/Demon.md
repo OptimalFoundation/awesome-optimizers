@@ -25,10 +25,16 @@ John Chen, Cameron Wolfe, Zhao Li, Anastasios Kyrillidis ; 2021
 ## Notes
 * Decaying momentum (Demon) is a momentum scheduling rule that aims to improve model performance. Model performance is affected by the 
   hyperparameters. Learning rate and momentum scheduling affect the process of hyperparameter tuning. 
-* The momentum decay schedule mentioned is $$ β_t = β_{init} * (1 - t/T) / ((1 - β_{init}) + β_{init} * (1 - t/T)) $$
+* The momentum decay schedule mentioned is $$ β_t = β_{init} \frac{\left(1 - \frac{t}{T}\right)}{(1 - β_{init}) + β_{init} \left(1 - \frac{t}{T}\right)} $$
 * SGD and Adam with Demon incorporated into them is given below
 
 ![Demon algorithm](assets/Demon1.png)
   
 * The implementation of Demon in common optimization algorithms does not involve much additional effort. 
-  
+* Demon was tested against a variety of different tasks. It was generally found that Demon is resilient to hyperparameter tuning, as compared to other momentum schedules (including step, cosine, OneCycle, linear, exponential and decay on plateau). Momentum schedules and their overall performance in the 28 tests conducted are given below
+![Demon comaprison](assets/Demon2.png)
+![Demon comaprison](assets/Demon3.png)
+Some of the main results are given below
+* On LSTMs, Demon performed worse than step schedules (step, decay on plateau, cosine)
+* On image tasks (using residual networks), Demon achieved top 3 performances when compared to other schedules
+* For $\text{BERT}_{BASE}$ - GLUE, Demon Adam performed marginally better than Adam with a learning rate step schedule.
