@@ -78,7 +78,8 @@ If this repository has been useful to you in your research, please cite it using
 11. [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980) [:outbox_tray:]() [:computer:]()
     Diederik P. Kingma, Jimmy Ba; 2014
 
-12. [Decoupled Weight Decay Regularization](https://arxiv.org/abs/1711.05101)(AdamW) [:outbox_tray:](survey/adamw.md) [:computer:]()
+12. [Decoupled Weight Decay Regularization](https://arxiv.org/abs/1711.05101) [:outbox_tray:](survey/adamw.md) [:computer:]()
+    Ilya Loshchilov, Frank Hutter; 2017
 
 12. [AdamP: Slowing Down the Slowdown for Momentum Optimizers on Scale-invariant Weights](https://arxiv.org/abs/2006.08217) [:outbox_tray:]() [:computer:]()
     Byeongho Heo, Sanghyuk Chun, Seong Joon Oh, Dongyoon Han; 2020
