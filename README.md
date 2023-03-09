@@ -35,7 +35,7 @@ If this repository has been useful to you in your research, please cite it using
 | Symbol           | Meaning | Count |
 |:-----------------|:--------|:------|
 | :page_facing_up: | Paper   | 25    |
-| :outbox_tray:    | Summary | 4     |
+| :outbox_tray:    | Summary | 7     |
 | :computer:       | Code    | 0     |
 
 
